@@ -1,1 +1,1 @@
-This is the readme for my pointers, arrays and strings tasks.
+This is the readme file for my alx low level programming repository
